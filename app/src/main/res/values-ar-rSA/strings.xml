@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="button_text">ارمي</string>
+    <string name="Button_roll_the_dice">العب النرد</string>
+</resources>
